@@ -1,0 +1,22 @@
+#featured-container{
+    margin-bottom: 5em;
+}
+
+.title{
+    font-size: 1.3em;
+    margin-bottom: 0.2em;
+    position: relative;
+}
+
+#featured-images{
+    margin-top: 2em;
+    align-items: center;
+}
+
+#featured-images .col-md-4{
+    position: relative;
+    cursor: pointer;
+}
+
+
+
